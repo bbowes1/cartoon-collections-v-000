@@ -27,6 +27,7 @@ if array.include?("cheese")
    nil
  end
 end
+end
 
  
  
