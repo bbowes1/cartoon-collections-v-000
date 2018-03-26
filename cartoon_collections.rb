@@ -21,16 +21,8 @@ end
 
 def find_the_cheese(array)
   cheese_types = ["cheddar", "gouda", "camembert"]
-array2.detect { |x| cheese_types.include?(x)}
-array2 =["banana", "sock"]
-binding.pry
+array2.detect { |x| cheese_types.include?(x)
 
-  
-if array.include?("cheese_types")
-cheese
- else
-   nil
- end
 end
 end
 
